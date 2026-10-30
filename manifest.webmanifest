@@ -1,0 +1,17 @@
+{
+  "name": "Juan Pedro y Eva – Aprender jugando",
+  "short_name": "Juan Pedro y Eva",
+  "description": "Juegos para aprender a leer, sumar, restar, formas y letras, con Flor la gatita.",
+  "lang": "es-AR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FBF1E1",
+  "theme_color": "#FBF1E1",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
